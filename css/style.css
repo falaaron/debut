@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h2{
+    margin-top: 40px;
+    margin-left:300px;
+    font-size: small;
+    font-weight:bolder ;
+}
+
+body{
+    background-color: rgba(234, 117, 117, 0.951);
+    color:whitesmoke;
+}
+
+nav{
+    float:right;
+    margin-top: -10px;
+    margin-right:300px;
+
+}
+
+nav ul{
+    display: flex;
+    list-style: none
+}
+
+.div-menu{
+    margin-right:30px;
+}
+
+.menu{
+    text-decoration: underline;
+    margin-right:30px;
+}
+
+
+
